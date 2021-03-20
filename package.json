@@ -1,0 +1,14 @@
+{
+  "name": "portfoliobootstrapwithcss",
+  "version": "1.0.0",
+  "description": "Responsive Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello"
+  },
+  "author": "Rahul Gubbala",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
